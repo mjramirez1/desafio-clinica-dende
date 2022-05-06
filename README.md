@@ -1,4 +1,4 @@
-# Desafío Clínica dende
+# Desafío Clínica Dende
 ## Requerimientos
 
 1. El registro de los usuarios debe hacerse con la API Random User usando axios para
